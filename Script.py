@@ -5,7 +5,7 @@
 class script(object):
     START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {} 👋,</blockquote>
     
-ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ᴀɴᴅ ꜱᴇʀɪᴇꜱ ɪɴ ᴍʏ ɢʀᴏᴜᴘ...
+ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ʏᴏᴜ ᴍᴏᴠɪᴇꜱ ɪɴ ᴍʏ ɢʀᴏᴜᴘ...
 <blockquote>ᴍʏ ɴᴀᴍᴇ ɪꜱ <a href='https://t.me/xtvfilmbot'>𝕏𝕋𝕍-MovieSearch</a></blockquote></b>"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
@@ -119,7 +119,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 <b>ɴᴏᴛᴇ:</b>
  <b>✯ Maintained by : <a href={}>ᴏᴡɴᴇʀ</a></b>
   
- <b>✯ Join here : <a href={}>ᴋᴅʀᴀᴍᴀʜᴜʙ</a></b> 
+ <b>✯ Join here : <a href={}>𝕏𝕋𝕍</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -228,10 +228,6 @@ Nᴀᴍᴇ - {}"""
     TOP_ALRT_MSG = """Cʜᴇᴄᴋɪɴɢ Fᴏʀ Mᴏᴠɪᴇ Iɴ Dᴀᴛᴀʙᴀsᴇ..."""
 
     MELCOW_ENG = """<b>ʜᴇʟʟᴏ {MENTION} | {ID} \nᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {GROUP} \nʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ ꜱᴇᴀʀᴄʜ ᴍᴏᴠɪᴇ ᴡᴇʙꜱᴇʀɪᴇꜱ & ᴅʀᴀᴍᴀ. \n<blockquote>ᴛʜɪꜱ ɪꜱ ᴏɴʟʏ ꜱᴇᴀʀᴄʜ ɢʀᴏᴜᴘ.</blockquote></b>"""
-
-    SHORTLINK_INFO = """
-
-🫵 Select Your Language And Earn Money 💰"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
