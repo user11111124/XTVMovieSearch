@@ -64,7 +64,7 @@ S_DB_URI = environ.get('S_DB_URI', "")   # This Db is for File Data Store When F
 
 # Premium And Referal Settings
 PREMIUM_AND_REFERAL_MODE = bool(environ.get('PREMIUM_AND_REFERAL_MODE', False)) # Set True Or False
-PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', ''))  # Premium logs channel id
+PREMIUM_LOGS = int(environ.get('PREMIUM_LOGS', '-1002464776837'))  # Premium logs channel id
 
 # If PREMIUM_AND_REFERAL_MODE is True Then Fill Below Variable, If Flase Then No Need To Fill.
 REFERAL_COUNT = int(environ.get('REFERAL_COUNT', '40')) # number of referal count
