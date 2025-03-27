@@ -40,7 +40,7 @@ reqst_channel = environ.get('REQST_CHANNEL', '-1002220095389')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 
 # This Channel Is For Index Request 
-INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', '-1002220095389'))
+INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', '-4619982600'))
 
 # This Channel Is For /batch command file store.
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002356169467')).split()]  # For Multiple Id Use One Space Between Each.
@@ -80,8 +80,8 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/XTVeurope')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/XTVchat')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/xMoviesfy')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/XTVeurope')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 't.me/XTVchat/17426') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/XTV_official')
 SUPPORT_CHAT_ID = environ.get('SUPPORT_CHAT_ID', '-1002220095389')
@@ -136,16 +136,16 @@ MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 
 
 # Choose Option Settings 
-LANGUAGES = ["english", "eng", "hindi", "hin", "korean", "Kor", "japanese", "jap", "chinese", "chn", "telugu", "tel", "kannada", "kan", "malayalam", "mal", "tamil", "tam"]
+LANGUAGES = ["english", "hindi",]
 SEASONS = ["season 1", "season 2", "season 3", "season 4", "season 5", "season 6", "season 7", "season 8", "season 9", "season 10"]
 EPISODES = ["E01", "E02", "E03", "E04", "E05", "E06", "E07", "E08", "E09", "E10", "E11", "E12", "E13", "E14", "E15", "E16", "E17", "E18", "E19", "E20", "E21", "E22", "E23", "E24", "E25", "E26", "E27", "E28", "E29", "E30", "E31", "E32", "E33", "E34", "E35", "E36", "E37", "E38", "E39", "E40"]
 QUALITIES = ["360p", "480p", "540p", "720p", "1080p", "1440p", "2160p"]
 YEARS = ["1900", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", "2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023", "2024", "2025"]
 
 
-                           # Don't Remove Credit @VJ_Botz
+                           # Don't Remove Credit @XTVeurope
                            # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
-                           # Ask Doubt on telegram @KingVJ01
+                           # Ask Doubt on telegram @davdxp
 
 
 # Online Stream and Download
