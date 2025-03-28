@@ -36,11 +36,11 @@ auth_channel = environ.get('AUTH_CHANNEL', '-1002243932904') # give your force s
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 
 # This Channel Is For When User Request Any File Name With command or hashtag like - /request or #request
-reqst_channel = environ.get('REQST_CHANNEL', '-1002220095389')
+reqst_channel = environ.get('REQST_CHANNEL', '-1002671919757')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 
 # This Channel Is For Index Request 
-INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', '-4619982600'))
+INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', '-1002671919757'))
 
 # This Channel Is For /batch command file store.
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1002356169467')).split()]  # For Multiple Id Use One Space Between Each.
