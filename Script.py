@@ -254,8 +254,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>💾 sɪᴢᴇ : {file_size}</b>
 
-<b><blockquote>💥 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ ☞
-<a href='https://t.me/XTVeurope'>𝕏𝕋𝕍</a></blockquote></b>""" 
+<b><blockquote>💥 ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ ☞ <a href='https://t.me/XTVeurope'>𝕏𝕋𝕍</a></blockquote></b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
