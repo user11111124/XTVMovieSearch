@@ -41,8 +41,8 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-            InlineKeyboardButton('ᴋᴅʀᴀᴍᴀʜᴜʙ', url=f'https://t.me/lalisaKdrama'),
-            InlineKeyboardButton('ᴄʜᴀᴛ', url=f'https://t.me/lalisaKdrama_Chat')
+            InlineKeyboardButton('XTV', url=f'https://t.me/XTVeurope'),
+            InlineKeyboardButton('ᴄʜᴀᴛ', url=f'https://t.me/XTVchat')
         ],[
             InlineKeyboardButton("ᴍʏ ᴏᴡɴᴇʀ", url=OWNER_LNK)
         ]]
@@ -63,8 +63,8 @@ async def save_group(bot, message):
 
                 MENTION = f"<a href='tg://user?id={u.id}'>{u.first_name}</a>"
                 button = [[
-                    InlineKeyboardButton('ᴋᴅʀᴀᴍᴀʜᴜʙ', url=f'https://t.me/lalisaKdrama'),
-                    InlineKeyboardButton('ᴄʜᴀᴛ', url=f'https://t.me/lalisaKdrama_Chat')
+                    InlineKeyboardButton('XTV Network', url=f'https://t.me/XTVeurope'),
+                    InlineKeyboardButton('ᴄʜᴀᴛ', url=f'https://t.me/XTVchat')
                 ],[
                     InlineKeyboardButton("ᴍʏ ᴏᴡɴᴇʀ", url=OWNER_LNK)
                 ]]
